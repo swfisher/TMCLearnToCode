@@ -7,6 +7,13 @@ A conceptual foundation is a set of deeply internalized mental tools that make n
 
 This means that specific topics which might be important to finding your first job as a programmer won't be covered. However, it also means that you'll have the foundational mental tools to study those topics efficiently.
 
+## Goals
+The conceptual foundation we will build together consists of the following:
+* Understanding the nature of computers and programs.
+* Finding effective patterns for thinking about logical problems in general.
+* Practical programming experience (with Javascript).
+* Practical experience creating web applications (with Javascript).
+
 ## Three Helpful Attitudes for Learning
 ### Comfort with Discomfort
 
@@ -26,13 +33,6 @@ Tap into your child-like wonder and curiosity about the world.
 
 Learning something as weird and wonderful as programming shouldn't feel like a chore (all the time). While some dry work is unavoidable, there are beautiful moments of emotional and intellectual discovery that learning any new art-form offers. Allowing yourself to hold deep questions that may seem like philosophical rabbit-holes will often lead to a much broader understanding of what you are doing that will make you a better programmer in a very practical sense. The most important questions to investigate are the ones you come up with yourself.
 
-
-## Goals
-The conceptual foundation we will build together consists of the following:
-* Understanding the nature of computers and programs.
-* Finding effective patterns for thinking about logical problems in general.
-* Practical programming experience (with Javascript).
-* Practical experience creating web applications (with Javascript).
 
 ## What you'll be doing
 The course should take participants about 10 hours a week for 3.5 months (14 weeks). We feel that spending significantly less than this may not result in the kind of consistent practice required to develop the deep mental skills for programming.
