@@ -5,7 +5,7 @@ All course information, weekly readings &amp; challenges, presentation slides fo
 #### "The better you understand what you are doing, the better you will do it." - Max Kanat-Alexander
 A conceptual foundation is a set of deeply internalized mental tools that make new concepts easier to grasp. This course aims to help beginners build such a conceptual basis for continued learning in computer science and programming. The course aims at developing a precise understanding of a small set of universal ideas rather than a fuzzy understanding of a broad range of ideas. 
 
-This means that specific topics which might be important to finding your first job as a programmer won't be covered. However, it also means that you'll have the foundational mental tools to study those topics efficiently and an understanding of their place in a broader context.
+This means that specific topics which might be important to finding your first job as a programmer won't be covered. However, it also means that you'll have the foundational mental tools to study those topics efficiently and place them in a meaningful context
 
 ## Goals
 The conceptual foundation we will build together consists of the following:
