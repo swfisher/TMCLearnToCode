@@ -58,7 +58,7 @@ Reading will be assigned primarily from the free, online book "eloquent javascri
 * April 30th, 2019 - Week 5 - Data Structures: Objects and Arrays
 * May 7, 2019 - Week 6 - Higher Order Functions
 * May 14, 2019 - Week 7 - Object Oriented Programming & Prototypes
-* May 21, 2019 - Week 8 - Programmers Best Friend: Bugs & Errors.
+* May 21, 2019 - Week 8 - Programmer's Best Friend: Bugs & Errors.
 #### Module 2: Programming for the Web
 * May 28, 2019 - Week 9 - Asynchronous Programming
 * June 4, 2019 - Week 10 - Javascript and The Browser
