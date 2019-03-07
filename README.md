@@ -1,5 +1,5 @@
-# TMCLearnToCode
-All course information, weekly readings &amp; challenges, presentation slides for Techmecolor's Learn to Code: Javascript Series.
+# Learn To Code: Javascript Series by Techmecolor
+This repository includes all course information, weekly readings &amp; challenges, presentation slides for Techmecolor's Learn to Code: Javascript Series.
 
 ## Course Philosophy:
 #### "The better you understand what you are doing, the better you will do it." - Max Kanat-Alexander
