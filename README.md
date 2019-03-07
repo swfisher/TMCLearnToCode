@@ -24,7 +24,7 @@ Be willing to not figure it out today, take a walk, and come back to it. Learnin
 
 Tap into your child-like wonder and curiosity about the world.
 
-Learning something as weird and wonderful as programming shouldn't feel like a chore (all the time). While some dry work is unavoidable, there are beautiful moments of emotional and intellectual discovery that learning any new art-form offers. Allowing yourself to hold deep questions that may seem like philosophical rabbit-holes will often lead to a much broader understanding of what you are doing that will make you a better programmer in a very practical sense. The most important questions to investigate are the ones you come up with yourself.
+Learning something as weird and wonderful as programming shouldn't feel like a chore (all the time). While some dry work is unavoidable, there are beautiful moments of emotional and intellectual discovery that learning a true art form offers. Allowing yourself to ask and experiment with questions that interest you will make you a better programmer in a very practical sense. The most important questions to your intellectual growth are the ones you come up with yourself, since these clearly mean something to you.
 
 ## Goals
 The conceptual foundation we will build together consists of the following:
