@@ -7,24 +7,6 @@ A conceptual foundation is a set of deeply internalized mental tools that make n
 
 This means that specific topics which might be important to finding your first job as a programmer won't be covered. However, it also means that you'll have the foundational mental tools to study those topics efficiently.
 
-### Three Helpful Attitudes for Learning
-#### Comfort with Discomfort
-
-Embrace the process of pushing the edge of your understanding. 
-
-If a challenge is nice and comfortable, seek out something that is a little harder. The deliciousness of mental challenges is an acquired taste. You'll need to get comfortable with whole new ways of thinking and being challenged. 
-
-#### Delayed Gratification
-
-Prioritize long term benefits over short term frustrations. 
-
-Be willing to not figure it out today, take a walk, and come back to it. Learning takes time and goes step by step. Every true "A-ha" comes after a great deal of "I have no idea" and often "I give up." Take a deep breath, take your your time, and be methodical about your obstacles. Your obstacles are your opportunity.
-
-#### The Beauty of It 
-
-Tap into your child-like wonder and curiosity about the world.
-
-Learning something as weird and wonderful as programming shouldn't feel like a chore (all the time). While some dry work is unavoidable, there are beautiful moments of emotional and intellectual discovery that learning a true art form offers. Allowing yourself to ask and experiment with questions that interest you will make you a better programmer in a very practical sense. The most important questions to your intellectual growth are the ones you come up with yourself, since these clearly mean something to you.
 
 ## Goals
 The conceptual foundation we will build together consists of the following:
@@ -32,6 +14,25 @@ The conceptual foundation we will build together consists of the following:
 * Finding effective patterns for thinking about logical problems in general.
 * Practical programming experience (with Javascript).
 * Practical experience creating web applications (with Javascript).
+
+## Three Helpful Attitudes for Learning
+### Comfort with Discomfort
+
+Embrace the process of pushing the edge of your understanding. 
+
+If a challenge is nice and comfortable, seek out something that is a little harder. The deliciousness of mental challenges is an acquired taste. You'll need to get comfortable with whole new ways of thinking and being challenged. 
+
+### Delayed Gratification
+
+Prioritize long term benefits over short term frustrations. 
+
+Be willing to not figure it out today, take a walk, and come back to it. Learning takes time and goes step by step. Every true "A-ha" comes after a great deal of "I have no idea" and often "I give up." Take a deep breath, take your your time, and be methodical about your obstacles. Your obstacles are your opportunity.
+
+### The Beauty of It 
+
+Tap into your child-like wonder and curiosity about the world.
+
+Learning something as weird and wonderful as programming shouldn't feel like a chore (all the time). While some dry work is unavoidable, there are beautiful moments of emotional and intellectual discovery that learning a true art form offers. Allowing yourself to ask and experiment with questions that interest you will make you a better programmer in a very practical sense. The most important questions to your intellectual growth are the ones you come up with yourself, since these clearly mean something to you.
 
 
 ## What you'll be doing
