@@ -44,8 +44,8 @@ Reading will be assigned primarily from the free, online book "eloquent javascri
 
 #### Typical Week:
 ##### Class
-* Interactive Concept Review and Questions: 30 Minutes
-* Group Problem Solving on Algorithm Challenges: 1.5 hours.
+* Consolidating our Conceptual Building Blocks: 30 Minutes
+* Group Practice on Programming Challenges: 1.5 hours.
 ##### Independent Work
 * 2 Hours of Reading
 * 6 Hours of Independent Exercises and Projects
