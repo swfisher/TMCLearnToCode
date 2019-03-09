@@ -44,7 +44,7 @@ Reading will be assigned primarily from the free, online book "eloquent javascri
 
 #### Typical Week:
 ##### Class
-* Consolidating our Conceptual Building Blocks: 30 Minutes
+* Review & Check Conceptual Building Blocks: 30 Minutes
 * Group Practice on Programming Challenges: 1.5 hours.
 ##### Independent Work
 * 2 Hours of Reading
