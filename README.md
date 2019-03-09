@@ -38,9 +38,11 @@ Learning something as weird and wonderful as programming shouldn't feel like a c
 ## What you'll be doing
 The course should take participants about 10 hours a week for 3.5 months (14 weeks). We feel that spending significantly less than this may not result in the kind of consistent practice required to develop the deep mental skills for programming.
 
-Class time will be primarily dedicated to solving problems in small groups, with the occasional informal review of the reading material as needed. Once in a while, a short talk may be given to provide deeper technical background on something.
+Class time will be primarily dedicated to solving programming problems in small groups. At the beginning of each class, we will spend about 30 minutes reviewing the conceptual building blocks introduced in the reading and checking our understanding of them. Once in a while, a short talk may be given to provide deeper technical background on something.
 
-Reading will be assigned primarily from the free, online book "eloquent javascript" with additional problems and resources drawn from a range of sources. Projects suitable for a professional portfolio will be pursued in the second half of the curriculum.
+Weekly reading will be assigned primarily from the free online book "eloquent javascript". Additionally, a weekly list of recommended practice problems will be drawn from a variety of sources. Doing the reading carefully, checking your own understanding of each building block, and dedicating 6 hours to the practice problems, spread across different days of the week, should result in a firm understanding and strong practical ability.
+
+Projects suitable for a professional portfolio will be pursued in the second half of the curriculum.
 
 #### Typical Week:
 ##### Class
