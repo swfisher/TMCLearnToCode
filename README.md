@@ -40,9 +40,11 @@ The course should take participants about 10 hours a week for 3.5 months (14 wee
 
 Class time will be primarily dedicated to solving programming problems in small groups. At the beginning of each class, we will spend about 30 minutes reviewing the conceptual building blocks introduced in the reading and checking our understanding of them. Once in a while, a short talk may be given to provide deeper technical background on something.
 
-Weekly reading will be assigned primarily from the free online book "eloquent javascript". Additionally, a weekly list of recommended practice problems will be drawn from a variety of sources. Doing the reading carefully, checking your own understanding of each building block, and dedicating 6 hours to the practice problems, spread across different days of the week, should result in a firm understanding and strong practical ability.
+Weekly reading will be assigned primarily from the free online book "eloquent javascript". Additionally, a weekly list of recommended practice problems will be curated to bring the concepts from the reading into practice. Honoring the following two commitments should result in a firm understanding and strong practical ability:
+* Do the reading carefully, checking your own understanding of each conceptual building block
+* Dedicating 6 hours to the practice problems, spread across different days of the week rather than all at once. This spreading out is called spaced repitition, and is important to effective learning.
 
-Projects suitable for a professional portfolio will be pursued in the second half of the curriculum.
+Projects suitable for a professional portfolio will be pursued in the second module of the curriculum.
 
 #### Typical Week:
 ##### Class
