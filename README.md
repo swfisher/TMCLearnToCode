@@ -74,8 +74,8 @@ Projects suitable for a professional portfolio will be pursued in the second mod
 
 ## People
 * Kimberly Harris is the organizer of the TechMeColor meetup faciliating this course. 
-* Sam Fisher is the primary teacher for the course.
-* Ben Lopata is a teaching assistant for the course.
+* Sam Fisher is the primary teacher and curriculum designer.
+* Ben Lopata is a teaching assistant and collaborator on course design.
 
 The program is entirely volunteer-run as an act of service to the community.
 
