@@ -73,7 +73,7 @@ Projects suitable for a professional portfolio will be pursued in the second mod
 * July 2, 2019 - Week 14 - Node.js and Back End Applications
 
 ## People:
-Kimberly Harris is the organizer of the TechMeColor meetup faciliating this course. 
-Sam Fisher is the primary teacher for the course.
-Ben Lopata is a teaching assistant for the course.
+* Kimberly Harris is the organizer of the TechMeColor meetup faciliating this course. 
+* Sam Fisher is the primary teacher for the course.
+* Ben Lopata is a teaching assistant for the course.
 
