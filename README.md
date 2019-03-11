@@ -77,3 +77,5 @@ Projects suitable for a professional portfolio will be pursued in the second mod
 * Sam Fisher is the primary teacher for the course.
 * Ben Lopata is a teaching assistant for the course.
 
+The program is entirely volunteer-run as an act of service to the community.
+
