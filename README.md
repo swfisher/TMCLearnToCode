@@ -1,5 +1,5 @@
 # Learn To Code: Javascript Series by Techmecolor
-This repository includes all course information, weekly readings &amp; challenges, presentation slides for Techmecolor's Learn to Code: Javascript Series.
+This repository includes all course information, weekly readings &amp; challenges, presentation slides for Techmecolor's Learn to Code: Javascript Series. 
 
 ## Course Philosophy:
 #### "The better you understand what you are doing, the better you will do it." - Max Kanat-Alexander
@@ -71,4 +71,9 @@ Projects suitable for a professional portfolio will be pursued in the second mod
 * June  18, 2019  - Week 12 - Event Handling
 * June 25, 2019 - Week 13 - HTTP and Forms
 * July 2, 2019 - Week 14 - Node.js and Back End Applications
+
+## People:
+Kimberly Harris is the organizer of the TechMeColor meetup faciliating this course. 
+Sam Fisher is the primary teacher for the course.
+Ben Lopata is a teaching assistant for the course.
 
