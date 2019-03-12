@@ -40,7 +40,12 @@ The course should take participants about 10 hours a week for 3.5 months (14 wee
 
 Class time will be primarily dedicated to solving programming problems in small groups. At the beginning of each class, we will spend about 30 minutes reviewing the conceptual building blocks introduced in the reading and checking our understanding of them. Once in a while, a short talk may be given to provide deeper technical background on something.
 
-Weekly reading will be assigned primarily from the free online book "eloquent javascript". Additionally, a weekly list of recommended practice problems will be curated to bring the concepts from the reading into practice. Honoring the following two commitments should result in a firm understanding and strong practical ability:
+Weekly reading will be assigned primarily from the free online book 
+
+<a class="resource-class-text" href="https://eloquentjavascript.net/">
+Eloquent Javascript. </a>
+
+Additionally, a weekly list of recommended practice problems will be curated to bring the concepts from the reading into practice. Honoring the following two commitments should result in a firm understanding and strong practical ability:
 * Do the reading carefully and check your own understanding of each conceptual building block. Before you begin a close read of the chapter, scan the sub-headings for the whole chapter to create "hooks" to hang the details on.
 * Dedicate 6 hours to the practice problems and spread this effort out across several days of the week rather than all at once on your off-day. This spreading out is called spaced repitition and is important to effective learning.
 
@@ -53,22 +58,36 @@ Projects suitable for a professional portfolio will be pursued in the second mod
 ##### Independent Work
 * 2 Hours of Reading
 * 6 Hours of Independent Exercises and Projects
+** **
 
+Start/end dates & week # 
+(flexibility).
+
+** **
 ## Course Content
 #### Module 1: Foundations of Programming
-* April 2, 2019  - Week 1 - Problem Solving and Computation
-* April 9, 2019  - Week 2 - Values, Types, and Operators
-* April 16, 2019 - Week 3 - Program Structure
-* April 23, 2019 - Week 4 - Functions as Procedures
-* April 30th, 2019 - Week 5 - Data Structures: Objects and Arrays
-* May 7, 2019 - Week 6 - Higher Order Functions
-* May 14, 2019 - Week 7 - Object Oriented Programming & Prototypes
-* May 21, 2019 - Week 8 - Programmer's Best Friend: Bugs & Errors.
+* *April 2*  - **Week 1**- Problem Solving and Computation
+* *April 9*  - **Week 2**- Values, Types, and Operators
+* *April 16* - **Week 3**- Program Structure
+* *April 23* - **Week 4**- Functions as Procedures
+* *April 30* - **Week 5** - Data Structures: Objects and Arrays
+* *May 7* - **Week 6** - Higher Order Functions
+* *May 14* - **Week 7** - Object Oriented Programming & Prototypes
+* *May 21* - **Week 8** - Programmer's Best Friend: Bugs & Errors.
 #### Module 2: Programming for the Web
-* May 28, 2019 - Week 9 - Asynchronous Programming
-* June 4, 2019 - Week 10 - Javascript and The Browser
-* June 11, 2019 - Week 11 - The Document Object Model
-* June  18, 2019  - Week 12 - Event Handling
-* June 25, 2019 - Week 13 - HTTP and Forms
-* July 2, 2019 - Week 14 - Node.js and Back End Applications
+* *May 28* - **Week 9** - Asynchronous Programming
+** June 4* - **Week 10** - Javascript and The Browser
+* *June 11* - **Week 11** - The Document Object Model
+* *June  18*  - **Week 12** - Event Handling
+* *June 25* - **Week 13** - HTTP and Forms
+* *July 2* - **Week 14** - Node.js and Back End Applications
 
+** **
+**Weeks 15 - ??**
+
+Professional development / continuing education guest speaker workshops.
+
+ Host meeting for JS user-group.
+
+ Student topic suggestions.
+** **
