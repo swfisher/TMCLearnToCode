@@ -1,0 +1,38 @@
+{
+    "L2C.js": "course",
+    
+    "programmatic": "thinking",
+
+    "what-is": "course-materials.json",
+
+    "for-that-matter-what-is": 
+    ".json-or-.js",
+
+    "course-outline": {
+      "philosophies": "../README.md",
+      "book": {
+        "title": "eloquent-js.pdf",
+        "auth": {
+          "name": "Haverbeke, M.",
+          "about": "https://marijnhaverbeke.nl/"
+        },
+        "license": "creative-commons",
+        "edition": "3rd",
+        "price": "free-ninety-nine",
+        "download-location": "./Eloquent_JavaScript.pdf",
+        "downloadUrl": "https://eloquentjavascript.net/Eloquent_JavaScript.pdf"
+    },
+    
+    "exercise-one": "correct-formatting-on-list",
+
+    "list": "
+    <"ul class="links">
+    <"li><"a href="code">Code sandbox and exercise solutions<"/a><"/li>
+    <"li><"a href="errata.html">Errata for the paper book<"/a><"/li>
+    <"li><"a href="Eloquent_JavaScript.pdf">This book as a single PDF file<"/a> (&amp; <"a href="Eloquent_JavaScript_small.pdf">small version for mobile<"/a>)<"/li>
+    <"li><"a href="https://eloquentjavascript.net/Eloquent_JavaScript.epub">This book as an EPUB file<"/a><"/li>
+    <"li><"a href="https://eloquentjavascript.net/Eloquent_JavaScript.mobi">This book as a MOBI (Kindle) file<"/a><"/li>
+    <"li><"a href="https://eloquentjavascript.net/1st_edition">The first edition of the book<"/a><"/li>
+    <"li><"a href="https://eloquentjavascript.net/2nd_edition">The second edition of the book<"/a><"/li>
+  <"/ul>
+}
