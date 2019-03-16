@@ -42,7 +42,7 @@ Class time will be primarily dedicated to solving programming problems in small 
 
 Weekly reading will be assigned primarily from the free online book "eloquent javascript". Additionally, a weekly list of recommended practice problems will be curated to bring the concepts from the reading into practice. Honoring the following two commitments should result in a firm understanding and strong practical ability:
 * Do the reading carefully and check your own understanding of each conceptual building block. Before you begin a close read of the chapter, scan the sub-headings for the whole chapter to create "hooks" to hang the details on.
-* Dedicate 6 hours to the practice problems and spread this effort out across several days of the week rather than all at once on your off-day. This spreading out is called spaced repitition and is important to effective learning.
+* Dedicate 6 hours to the practice problems and spread this effort out across several days of the week rather than all at once on your off-day. This spreading out is called spaced repetition and is important to effective learning.
 
 Projects suitable for a professional portfolio will be pursued in the second module of the curriculum.
 
