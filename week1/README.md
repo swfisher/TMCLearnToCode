@@ -9,8 +9,8 @@
 * Logistics Questions and Wrap-up
 
 ## Reading:
-* Eloquent Javascript Introduction 
-* Eloquent Javascript Chapter 1
+* [Eloquent Javascript Introduction](http://eloquentjavascript.net/00_intro.html)
+* [Eloquent Javascript Chapter 1](http://eloquentjavascript.net/01_values.html)
 
 ## Recommended Problems List
 * Play around with each new concept you encounter in eloquent JS chapter 1 in your own javascript environment.
