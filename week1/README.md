@@ -1,6 +1,6 @@
 # Week 1: Problem Solving and Computation
 
-## Class Plan:
+## Class Plan
 * Greetings &amp; Introductions 
 * Overview of Course Goals and Structure
 * Talk: "What is Computation?"
@@ -8,7 +8,7 @@
 * Dialogue: Work Trough Code Example in Eloquent Javascript Introduction. 
 * Logistics Questions and Wrap-up
 
-## Reading & Videos:
+## Reading & Videos
 * [Eloquent Javascript Introduction](http://eloquentjavascript.net/00_intro.html)
 * [Eloquent Javascript Chapter 1](http://eloquentjavascript.net/01_values.html)
 * [Khan Academy: Introduction to Number Systems](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction)
