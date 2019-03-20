@@ -56,21 +56,21 @@ Projects suitable for a professional portfolio will be pursued in the second mod
 
 ## Course Content
 #### Module 1: Foundations of Programming
-* April 2, 2019  - Week 1 - Problem Solving and Computation
-* April 9, 2019  - Week 2 - Values, Types, and Operators
-* April 16, 2019 - Week 3 - Program Structure
-* April 23, 2019 - Week 4 - Functions as Procedures
-* April 30th, 2019 - Week 5 - Data Structures: Objects and Arrays
-* May 7, 2019 - Week 6 - Higher Order Functions
-* May 14, 2019 - Week 7 - Object Oriented Programming & Prototypes
-* May 21, 2019 - Week 8 - Programmer's Best Friend: Bugs & Errors.
+* Week 1 - Problem Solving and Computation
+* Week 2 - Values, Types, and Operators
+* Week 3 - Program Structure
+* Week 4 - Functions as Procedures
+* Week 5 - Data Structures: Objects and Arrays
+* Week 6 - Higher Order Functions
+* Week 7 - Object Oriented Programming & Prototypes
+* Week 8 - Programmer's Best Friend: Bugs & Errors.
 #### Module 2: Programming for the Web
-* May 28, 2019 - Week 9 - Asynchronous Programming
-* June 4, 2019 - Week 10 - Javascript and The Browser
-* June 11, 2019 - Week 11 - The Document Object Model
-* June  18, 2019  - Week 12 - Event Handling
-* June 25, 2019 - Week 13 - HTTP and Forms
-* July 2, 2019 - Week 14 - Node.js and Back End Applications
+* Week 9 - Asynchronous Programming
+* Week 10 - Javascript and The Browser
+* Week 11 - The Document Object Model
+* Week 12 - Event Handling
+* Week 13 - HTTP and Forms
+* Week 14 - Node.js and Back End Applications
 
 ## People
 * Kimberly Harris is the organizer of the TechMeColor meetup faciliating this course. 
