@@ -16,5 +16,4 @@
 * Write a program that logs the sum of the first 50 even numbers using a while loop. How about the odd numbers? How about for values other than 50?
 * Write a program that can log the product of the numbers from 1 to 10, 1 * 2 * 3, * ... * 10. How about 1 to 1000?
 * Using '+' between two strings will stick them together. For example, 'cat'+'dog' returns 'catdog.'This is called "concatenation". Write a program that will take an array of strings such as ['cat','dog','lizard'] and log the array elements as a single string seperated by spaces such as 'cat dog lizard'.  
-*TODO: Add harder puzzle problems 
-* TODO: Add more "puzzle problems" and "finger exercises."
+* TODO: Add harder puzzle problems 
