@@ -4,7 +4,7 @@
 * Greetings &amp; Introductions 
 * Overview of Course Goals and Structure
 * Talk: "What is Computation?"
-* Small Group Session: Set up VS Code + Node + CodeRunner javascript environment for module 1 and run sample code to verify it. 
+* Small Group Session: Set up VS Code + Node javascript environment for modeule 1 and run sample code to verify it. 
 * Dialogue: Work Trough Code Example in Eloquent Javascript Introduction. 
 * Logistics Questions and Wrap-up
 
