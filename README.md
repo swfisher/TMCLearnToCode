@@ -78,4 +78,3 @@ Projects suitable for a professional portfolio will be pursued in the second mod
 * Ben Lopata is a teaching assistant and collaborator on course design.
 
 The program is entirely volunteer-run as an act of service to the community.
-
