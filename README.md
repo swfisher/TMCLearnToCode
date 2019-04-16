@@ -32,7 +32,11 @@ Be willing to not figure it out today, take a walk, and come back to it. Learnin
 
 Tap into your child-like wonder and curiosity about the world.
 
-Learning something as weird and wonderful as programming shouldn't feel like a chore (all the time). While some dry work is unavoidable, there are beautiful moments of emotional and intellectual discovery that learning a true art form offers. Allowing yourself to ask and experiment with questions that interest you will make you a better programmer in a very practical sense. The most important questions to your intellectual growth are the ones you come up with yourself, since these clearly mean something to you.
+Learning something as weird and wonderful as programming shouldn't feel like a chore (all the time). While some dry work is unavoidable, there are beautiful moments of emotional and intellectual discovery that learning a true art form offers. 
+
+The context of changing your career trajectory and seeking to improve your financial situation can make learning to code feel like a time investment with a lot riding on it. A little bit of that stress is a positive motivator, but too much can feel overwhelming. In class, we encourage you to feel free to relax your mind and focus completely on solving the problems in front of you. We encourage you to view problem solving as a playful, enjoyable activity in which all external concerns dissappear for a while. Programming is a long term investment and each class is just a small step in getting that started. We hope you'll enjoy the journey as well as experiencing professional growth along the way.
+
+Embrace your curiosity. Allowing yourself to ask and experiment with questions that interest you will make you a better programmer in a very practical sense. The most important questions to your intellectual growth are the ones you come up with yourself, since these clearly mean something to you.
 
 
 ## What you'll be doing
