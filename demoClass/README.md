@@ -2,7 +2,7 @@
 
 ## Class Plan
 * Greetings &amp; Introductions - 20m
-* Interactive Lecture (Introduce + Try) - Open JSBin, Console.log, Variables, Numbers and Strings, Arrays, Iteration with While Loops. - 40m
+* Interactive Lecture (Introduce + Try) - Open JSBin, Console.log, Variables, Numbers, Booleans, Strings, Arrays, Iteration with While Loops. - 40m
 * Pick small group exercises fluidly based on class. - 40m
 * Invitation to Course, Fast Overview of Course Goals and Structure - 10m
 * Logistics Questions and Wrap-up -10m 
