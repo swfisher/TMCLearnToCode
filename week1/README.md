@@ -10,6 +10,8 @@
 * Dialogue: Work Through Code Example in [Eloquent Javascript Introduction](https://eloquentjavascript.net/00_intro.html).
 * Small Group Session: Set up VS Code + Node javascript environment for modeule 1 and run code to verify it. 
 * Re-iterate homework goals and where to find it. 
+* Small Group Session: Set up VS Code + Node javascript environment for module 1 and run sample code to verify it. 
+* Dialogue: Work Trough Code Example in Eloquent Javascript Introduction. 
 * Logistics Questions and Wrap-up
 
 ## Reading & Videos
