@@ -2,10 +2,14 @@
 
 ## Class Plan
 * Greetings &amp; Introductions 
+* [Course Sign Up](https://kimberlyharris504722.typeform.com/to/fs36Q4)
+* Slack Sign Up
+* Bookmark Course Webpage
 * Overview of Course Goals and Structure
-* Talk: "What is Computation?"
-* Small Group Session: Set up VS Code + Node javascript environment for modeule 1 and run sample code to verify it. 
-* Dialogue: Work Trough Code Example in Eloquent Javascript Introduction. 
+* [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) video series - broad context of computing. 45 minutes. Stop + dialogue.
+* Dialogue: Work Through Code Example in [Eloquent Javascript Introduction](https://eloquentjavascript.net/00_intro.html).
+* Small Group Session: Set up VS Code + Node javascript environment for modeule 1 and run code to verify it. 
+* Re-iterate homework goals and where to find it. 
 * Logistics Questions and Wrap-up
 
 ## Reading & Videos
