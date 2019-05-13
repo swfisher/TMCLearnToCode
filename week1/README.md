@@ -12,7 +12,7 @@
 * Re-iterate homework goals and where to find it. 
 * Logistics Questions and Wrap-up
 
-## Reading & Videos
+## Homework Reading & Videos
 * [Eloquent Javascript Introduction](http://eloquentjavascript.net/00_intro.html)
 * [Eloquent Javascript Chapter 1](http://eloquentjavascript.net/01_values.html)
 * [Khan Academy: Introduction to Number Systems](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction)
