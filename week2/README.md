@@ -21,4 +21,4 @@
 	* Find the Longest Word in a String
 	* Repeat a String Repeat a String
 	* Truncate a String
-
+* Conceptual Question: Iteration (loops) and branching (if/else) are common to design of most programming languages and are considered a central feature of structuring programs. Why do you think this is? What do they allow you to accomplish that is otherwise difficult? Could we accomplish those things without iteration and branching?
