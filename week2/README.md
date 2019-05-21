@@ -9,7 +9,8 @@
 
 ## Homework Reading & Videos
 * [Eloquent Javascript Chapter 2](https://eloquentjavascript.net/02_program_structure.html)
-* [Sequence, Selection, and Loops](https://www.youtube.com/watch?v=eSYeHlwDCNA)
+* [Optional: Sequence, Selection, and Loops](https://www.youtube.com/watch?v=eSYeHlwDCNA)
+* [Optional: Crash Course CS: Control Flow](https://www.youtube.com/watch?v=l26oaHV7D40&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=13)
 
 ## Recommended Homework Problems List
 * Play around with each new concept you encounter in eloquent JS chapter 2 in your own javascript environment.
