@@ -9,6 +9,7 @@
 
 ## Homework Reading & Videos
 * [Eloquent Javascript Chapter 2](https://eloquentjavascript.net/02_program_structure.html)
+* [Sequence, Selection, and Loops](https://www.youtube.com/watch?v=eSYeHlwDCNA)
 
 ## Recommended Homework Problems List
 * Play around with each new concept you encounter in eloquent JS chapter 2 in your own javascript environment.
