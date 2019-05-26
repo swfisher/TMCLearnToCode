@@ -1,4 +1,4 @@
-# Week 2: Values, Types, and Operators
+# Week 3: Program Structure. 
 
 ## Class Plan
 * Greetings &amp; Introductions 
@@ -12,5 +12,5 @@
 
 ## Recommended Homework Problems List
 * Finish the FreeCodeCamp basic algorithm scripting problems from Week 2.
-* Work remaining week 1 & 2 homework + in-class problems. 
+* Work through remaining week 1+2 homework & in-class problems. 
 
