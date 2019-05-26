@@ -1,4 +1,4 @@
-# Week 3: Program Structure. 
+# Week 3: Program Structure 
 
 ## Class Plan
 * Greetings &amp; Introductions 
