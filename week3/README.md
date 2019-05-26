@@ -11,4 +11,6 @@
 * [Finish Reading from Weeks 1 & 2](https://eloquentjavascript.net/02_program_structure.html)
 
 ## Recommended Homework Problems List
-* Work Week 1 & 2 problems. 
+* Finish the FreeCodeCamp basic algorithm scripting problems from Week 2.
+* Work remaining week 1 & 2 homework + in-class problems. 
+
