@@ -1,0 +1,14 @@
+# Week 2: Values, Types, and Operators
+
+## Class Plan
+* Greetings &amp; Introductions 
+* Dialogue + Questions: Review [Eloquent Javascript Introduction and Chapter 2](https://eloquentjavascript.net/02_program_structure.html).
+* Small Group Problem Solving: In Class Problems
+* Go over homework and goal of mastery for week 1+2 content. 
+* Logistics Questions and Wrap-up
+
+## Homework Reading & Videos
+* [Finish Reading from Weeks 1 & 2](https://eloquentjavascript.net/02_program_structure.html)
+
+## Recommended Homework Problems List
+* Work Week 1 & 2 problems. 
