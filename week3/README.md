@@ -3,6 +3,7 @@
 ## Class Plan
 * Greetings &amp; Introductions 
 * Dialogue + Questions: Review [Eloquent Javascript Introduction and Chapter 2](https://eloquentjavascript.net/02_program_structure.html).
+* Look at binary converter as an example of an iterative algorithm. Explain why the algorithm works.
 * Small Group Problem Solving: In Class Problems
 * Go over homework and goal of mastery for week 1+2 content. 
 * Logistics Questions and Wrap-up
