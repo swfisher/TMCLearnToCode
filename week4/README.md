@@ -1,4 +1,4 @@
-# Week 4: Program Structure 
+# Week 4: Review & Mastery Day! 
 
 ## Class Plan
 * Greetings &amp; Introductions 
