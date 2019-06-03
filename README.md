@@ -63,18 +63,21 @@ Projects suitable for a professional portfolio will be pursued in the second mod
 * Week 1 - Problem Solving and Computation
 * Week 2 - Values, Types, and Operators
 * Week 3 - Program Structure
-* Week 4 - Functions as Procedures
-* Week 5 - Data Structures: Objects and Arrays
-* Week 6 - Higher Order Functions
-* Week 7 - Object Oriented Programming & Prototypes
-* Week 8 - Programmer's Best Friend: Bugs & Errors.
+* Week 4 - Review & Mastery of Previous Topics
+* Week 5 - Functions as Procedures
+* Week 6 - Data Structures: Objects and Arrays
+* Week 7 - Review & Mastery of Previous Topics
+* Week 8 - Higher Order Functions
+* Week 9 - Object Oriented Programming & Prototypes
+* Week 10 - Review & Mastery of Previous Topics
+* Week 11 - Programmer's Best Friend: Bugs & Errors.
 #### Module 2: Programming for the Web
-* Week 9 - Asynchronous Programming
-* Week 10 - Javascript and The Browser
-* Week 11 - The Document Object Model
-* Week 12 - Event Handling
-* Week 13 - HTTP and Forms
-* Week 14 - Node.js and Back End Applications
+* Week 12 - Asynchronous Programming, Javascript and the Browser
+* Week 13 - The Document Object Model 
+* Week 14 - Event Handling 
+Bonus Topics: 
+HTTP and Forms,
+Node.js and Back End Applications
 
 ## People
 * Kimberly Harris is the organizer of the TechMeColor meetup faciliating this course. 
