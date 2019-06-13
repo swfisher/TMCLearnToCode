@@ -64,7 +64,7 @@ Projects suitable for a professional portfolio will be pursued in the second mod
 * Week 2 - Values, Types, and Operators
 * Week 3 - Program Structure
 * Week 4 - Review & Mastery of Previous Topics
-* Week 5 - Functions as Procedures
+* Week 5 - Functions, Functional Purity, Closures, and Recursion
 * Week 6 - Data Structures: Objects and Arrays
 * Week 7 - Review & Mastery of Previous Topics
 * Week 8 - Higher Order Functions
@@ -82,6 +82,5 @@ Node.js and Back End Applications
 ## People
 * Kimberly Harris is the organizer of the TechMeColor meetup faciliating this course. 
 * Sam Fisher is the primary teacher and curriculum designer.
-* Ben Lopata is a teaching assistant and collaborator on course design.
 
 The program is entirely volunteer-run as an act of service to the community.
