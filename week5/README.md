@@ -13,4 +13,4 @@
 
 ## Recommended Homework Problems List
 * Attempt each problem at the end of eloquent javascript chapter 4.
-* TBD
+* Attempt each in-class problems from week 5. (These are kinda hard!)
