@@ -14,7 +14,7 @@
 
 ## Recommended Homework Problems List
 (Ordered by priority)
-1. Attempt every problem end of chapter problem in eloquent javascript chapters 1-4. If there are any you were unable to finish yet, try again. 
+1. Attempt every end-of-chapter problem in eloquent javascript chapters 1-4. If there are any you were unable to finish yet, try again. 
 2. Attempt any previous homework assignments that were left unfinished. 
 3. Attempt any of the Free Code Camp [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting) challenges that you've not yet solved.
 
