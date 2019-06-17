@@ -2,7 +2,7 @@
 
 ## Class Plan
 * Greetings &amp; Introductions
-* Questions on Chapter 4
+* Questions on [Chapter 4](https://eloquentjavascript.net/04_data.html)
 * Fully Reconstruct Lycanthrope's Log Example as a Group.
 	* Get side tracked to talk about the meaning of correlation. 10 minute time box.
 * Independent Problem Solving. Solve Remaining End of Chapter Problems from Chapter 3 and 4.
