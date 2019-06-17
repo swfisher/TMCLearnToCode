@@ -64,7 +64,7 @@ Projects suitable for a professional portfolio will be pursued in the second mod
 * Week 2 - Values, Types, and Operators
 * Week 3 - Program Structure
 * Week 4 - Review & Mastery of Previous Topics
-* Week 5 - Functions, Functional Purity, Closures, and Recursion
+* Week 5 - Recursion and Abstraction (Functions, Purity, Closures) 
 * Week 6 - Data Structures: Objects and Arrays
 * Week 7 - Review & Mastery of Previous Topics
 * Week 8 - Higher Order Functions
