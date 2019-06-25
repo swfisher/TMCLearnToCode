@@ -8,7 +8,7 @@
 * Logistics Questions and Wrap-up
 
 ## Homework Reading
-* Eloquent Javascript Chapter 5 
+* [Eloquent Javascript Chapter 5](https://eloquentjavascript.net/05_higher_order.html)
 
 ## Recommended Homework Problems List
 (Ordered by priority)
