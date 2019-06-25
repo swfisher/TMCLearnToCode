@@ -12,5 +12,5 @@
 * [Free Code Camp, Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data). If you didn't get to do this last week, go aheand complete this.
 
 ## Recommended Homework Problems List
-* Attempt each problem at the end of eloquent javascript chapter 4.
+* Attempt each problem at the end of eloquent javascript chapter 4!
 * Attempt each in-class problems from week 5. (These are kinda hard!)
