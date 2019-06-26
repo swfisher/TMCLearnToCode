@@ -8,10 +8,10 @@
 * Logistics Questions and Wrap-up
 
 ## Homework Reading
-* [Eloquent Javascript Chapter 5](https://eloquentjavascript.net/05_higher_order.html)
+None
 
-## Recommended Homework Problems List
+## Homework Problems List
 (Ordered by priority)
-1. Complete the questions at the end of eloquent javascript chapter 5. 
-2. TBD (if any)
+1. Complete the problems at the end of [eloquent javascript](https://eloquentjavascript.net/) chapters 2,3, and 4. When you finish all the problems for a chapter, put your answers in either a single .js file or a .zip file and slack them to Sam. Sam will get you individual feedback on the answers. Feel free to reach out for feedback in the group channel as well.
+2. If you have finished the above, complete the basic and intermediate algorithm scripting sections on [freecodecamp](https://learn.freecodecamp.org/).  
 
