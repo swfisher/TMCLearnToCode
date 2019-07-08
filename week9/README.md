@@ -1,10 +1,9 @@
-# Week 7: Functions, Arrays, and Objects Review
+# Week 9: Mastering the First Four Chapters Con't 
 
 ## Class Plan
 * Greetings &amp; Introductions
-* Fully Reconstruct Lycanthrope's Log Example as a Group.
-* Independent Problem Solving. Solve Remaining End of Chapter Problems from Chapter 3 and 4.
-* Go over homework and topics for chapter 5.
+* Revist any topics from the book that folks want to look at.
+* Independent Problem Solving. Solve Remaining End of Chapter Problems from Chapter 1-4.
 * Logistics Questions and Wrap-up
 
 ## Homework Reading
